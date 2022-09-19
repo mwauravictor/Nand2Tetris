@@ -1,0 +1,17 @@
+Writing hdl code for:
+And
+Not
+Or
+Mux
+DMux
+Xor
+And16
+Not16
+Or16
+Mux16
+DMux4way
+DMux8way
+Mux4way16
+Mux8way16
+Or8way
+
